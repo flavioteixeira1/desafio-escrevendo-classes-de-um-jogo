@@ -1,5 +1,3 @@
-package com.flavioteixeira1;
-
 public class Main {
     public static void main(String[] args) {
         hero hero1 = new hero("Aragorn", 100, 87, caracther.WARRIOR);
