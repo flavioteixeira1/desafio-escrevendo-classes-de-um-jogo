@@ -1,5 +1,3 @@
-package com.flavioteixeira1;
-
 public class hero {
     String name;
     int health;
