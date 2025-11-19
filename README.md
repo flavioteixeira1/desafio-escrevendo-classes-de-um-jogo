@@ -3,7 +3,7 @@ código em Java que descreve uma classe herói para um jogo de aventura
 
 git clone https://github.com/flavioteixeira1/desafio-escrevendo-classes-de-um-jogo
 
-cd cd desafio-escrevendo-classes-de-um-jogo
+cd desafio-escrevendo-classes-de-um-jogo
 
 javac src/*.java
 
