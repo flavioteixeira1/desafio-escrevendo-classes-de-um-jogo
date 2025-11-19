@@ -1,5 +1,8 @@
-package com.flavioteixeira1;
-
 public enum caracther {
-
+    WARRIOR,
+    MAGE,
+    ROGUE,
+    ARCHER,
+    MONK,
+    NINJA
 }
